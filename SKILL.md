@@ -1,5 +1,5 @@
 ---
-name: imessage-no-mac-sms
+name: imessage-with-no-mac
 description: >
   Give any AI agent iMessage, RCS, and SMS capabilities via Claw Messenger.
   No Mac or phone required. WebSocket + REST API. Works with OpenClaw,
